@@ -20,12 +20,12 @@
 - DO NOT spend all your time coding without testing and then only test your program on the last minutes 🙈 This is a recipe for disaster. This will help you get into the habit of testing when the time comes for AirBnB and Project weeks!
 - If you are storing data in files, feel free to use CSV instead of JSON, but remember to change the file name (.json to .csv)
 
-# SHARING YOUR CODE:
-#### In order for you to share your code, the team member who will be programming and sharing their screen needs to:
+#### In order for you to get this boilerplate, the team member who will be programming and sharing their screen needs to:
 - `cd ~/code/`
 - `git clone git@github.com:Disco-Chef/pub-quiz.git`
 - `cd pub-quiz`
 
+# SHARING YOUR CODE:
 Be very careful with this one, DO NOT MAKE A TYPO 😱
 
 - `rm -rf .git`
@@ -36,9 +36,3 @@ Be very careful with this one, DO NOT MAKE A TYPO 😱
 - Press enter 4 times
 - `gh repo view --web`
 - A page will open in your browser, showing you this repository on github. Currently, it is empty. Push to it with: `git push origin master` 🎉 
-
-
-
-
-
-
