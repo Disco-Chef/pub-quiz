@@ -23,7 +23,7 @@
 # SHARING YOUR CODE:
 #### In order for you to share your code, the team member who will be programming and sharing their screen needs to:
 - `cd ~/code/`
-- `git clone `
+- `git clone git@github.com:Disco-Chef/pub-quiz.git`
 - `cd pub-quiz`
 
 Be very careful with this one, DO NOT MAKE A TYPO 😱
