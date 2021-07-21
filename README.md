@@ -35,4 +35,4 @@ Be very careful with this one, DO NOT MAKE A TYPO 😱
 - `gh repo create`
 - Press enter 4 times
 - `gh repo view --web`
-- A page will open in your browser, showing you this repository on github. Currently, it is empty. Push to it with: `git push origin master` 🎉 
+- A page will open in your browser, showing you the repository that was created on github on YOUR account. Currently, it is empty. Push to it with: `git push origin master` 🎉 
